@@ -1,4 +1,4 @@
-# Solarized Colorscheme for XChat
+# Solarized Black Colorscheme for XChat
 
 This is a port of the [Solarized][solarized-homepage] colorscheme for
 [XChat][xchat-homepage]:  
