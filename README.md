@@ -115,7 +115,7 @@ http://xchat.org/faq/#q26
     =======================================
     XChat   Solarized   Hex         Color Mapping
     -----   -------------------     ------------------------------------------------
-    256     Base 03     #002b36     Marking Text Forground
+    256     Base 03     #002b36     Marking Text Foreground
     257     Base 01     #586e75     Marking Text Background
     258     Base 0      #839496     Text Colors Foreground
     259     Base 03     #000000     Text Colors Background
