@@ -1,12 +1,12 @@
 # Solarized Black Colorscheme for XChat
 
 This is a port of the [Solarized][solarized-homepage] colorscheme for
-[XChat][xchat-homepage]:  
+[XChat][xchat-homepage]:
 [XChat Solarized Github Repository][xchat-solarized-github]
 
-Original Solarized colorscheme developed by:  
-**Ethan Schoonover**  
-<es@ethanschoonover.com>  
+Original Solarized colorscheme developed by:
+**Ethan Schoonover**
+<es@ethanschoonover.com>
 [Solarized Github Repository][solarized-github]
 
 ## Visit the [Solarized homepage][solarized-homepage]
@@ -31,11 +31,11 @@ applications.
 
 Replace `<username>` with your actual username.
 
-* **Windows Vista/7:**  
+* **Windows Vista/7:**
 `C:\Users\<username>\AppData\Roaming\X-Chat 2\`
-* **Windows XP:**  
+* **Windows XP:**
 `C:\Documents and Settings\<username>\Application Data\X-Chat 2\`
-* **Linux:**  
+* **Linux:**
 `~/.xchat2/`
 
 ### pevents.conf
@@ -48,10 +48,10 @@ it is heavily modified.
 
 The `pevents.conf` included with the theme has 2 modifications:
 
-1. Nick names are wrapped with angle brackets.  
+1. Nick names are wrapped with angle brackets.
 https://toxin.jottit.com/xchat_text_events#03
 
-1. Mode characters ( ~, &, @, %, +) are shown next to nick names.  
+1. Mode characters ( ~, &, @, %, +) are shown next to nick names.
 http://xchat.org/faq/#q26
 
 ### Install the Solarized theme
